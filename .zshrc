@@ -59,7 +59,7 @@ source $HOME/.functions
 #Sexy Bash Prompt, inspired by "Extravagant Zsh Prompt"
 # Screenshot: http://img.gf3.ca/d54942f474256ec26a49893681c49b5a.png
 # A big thanks to \amethyst on Freenode
-export EDITOR='subl -w'
+export EDITOR='code -w'
 
 if [[ $COLORTERM = gnome-* && $TERM = xterm ]]  && infocmp gnome-256color >/dev/null 2>&1; then export TERM=gnome-256color
 elif infocmp xterm-256color >/dev/null 2>&1; then export TERM=xterm-256color
@@ -93,3 +93,7 @@ else
 fi
 
  #PS1="\[${BOLD}${MAGENTA}\]\u \[$WHITE\]at \[$ORANGE\]\h \[$WHITE\]in \[$GREEN\]\w\[$WHITE\]\$([[ -n \$(git branch 2> /dev/null) ]] && echo \" on \")\[$PURPLE\]\$(parse_git_branch)\[$WHITE\]\n\$ \[$RESET\]"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
