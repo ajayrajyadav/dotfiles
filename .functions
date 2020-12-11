@@ -217,11 +217,22 @@ function a() {
 	fi;
 }
 
-# `v` with no arguments opens the current directory in Vim, otherwise opens the
+# `v` with no arguments opens the current directory in Code, otherwise opens the
 # given location
 function v() {
 	if [ $# -eq 0 ]; then
 		code .;
+	else
+		code "$@";
+	fi;
+}
+
+# `v` with no arguments opens the current directory in Code, otherwise opens the
+# given location
+function fixssh() {
+	if [ $# -eq 0 ]; then
+		cd ~/.ssh &&  ssh-add -D && ssh-add id_rsa_bitbucket && ssh-add id_rsa_git && ssh-add id_rsa_gitlab && ssh-add id_rsa_glab_int && ssh-add -l;
+
 	else
 		code "$@";
 	fi;
@@ -235,6 +246,12 @@ function o() {
 	else
 		open "$@";
 	fi;
+}
+
+# `ys` with no arguments opens the current directory, otherwise opens the given
+# location
+function ys() {
+	yarn start;
 }
 
 # `tre` is a shorthand for `tree` with hidden files and color enabled, ignoring

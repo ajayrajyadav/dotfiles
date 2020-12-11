@@ -1,0 +1,1876 @@
+    1  node -v
+    2  brew install node
+    3  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+    4  nvm -v
+    5  nvm version
+    6  ssh-keygen -t rsa -b 4096 -C "ajay.yadav@interpreta.com"
+    7  ssh-keygen -t rsa -b 4096 -C "ajayraj98@gmail.com"
+    8  cd code
+    9  code
+   10  which code
+   11  cd code
+   12  git clone https://github.com/powerline/fonts.git
+   13  cd fonts
+   14  sh  install.sh
+   15  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699\n\n\n\n
+   16  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   17  ls
+   18  o
+   19  sh install.sh
+   20  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   21  cd
+   22  cd code
+   23  git clone ssh://git@orion.int-dev.com:7999/in/interpreta.git
+   24  cd
+   25  cd .ssh
+   26  o
+   27  ssh-add -l
+   28  ssh-add ~/.ssh/id_rsa_bitbucket
+   29  ssh-add -l
+   30  ssh-add ~/.ssh/id_rsa_git
+   31  cd
+   32  git clone ssh://git@orion.int-dev.com:7999/in/interpreta.git
+   33  git clone ssh://git@git.int-dev.com:7999/in/tools_$(uname).git $SRC/tools
+   34  ls
+   35  cd code
+   36  git clone ssh://git@git.int-dev.com:7999/in/tools_$(uname).git $SRC/tools
+   37  git clone ssh://git@orion.int-dev.com:7999/in/interpreta.git
+   38  nvm install node 8
+   39  nvm install 8.11.3
+   40  cd code/interpreta
+   41  ls
+   42  cd iapp
+   43  cd MeanJS
+   44  npm install
+   45  node server.js
+   46  c
+   47  cd config
+   48  ls
+   49  code
+   50  v
+   51  which gfo
+   52  which gfu
+   53  node server.js
+   54  cd
+   55  cd code/interpreta/iapp/MeanJS
+   56  node server.js
+   57  vi config/env/development.js
+   58  ping 10.0.20.26
+   59  vi config/env/development.js
+   60  node server.,js
+   61  node server.js
+   62  vi config/env/development.js
+   63  node server.js
+   64  grunt watch
+   65  node server.js
+   66  grunt watch
+   67  cd code/interpreta/iapp/m
+   68  cd code/interpreta/iapp/MeanJS
+   69  grunt watch
+   70  cd code
+   71  cd dotfiles
+   72  v
+   73  node server.js
+   74  cd
+   75  cd code
+   76  mk -h
+   77  mkdir -h
+   78  mkdir chatbot
+   79  cd chatbot
+   80  npm init
+   81  npm install --save botbuilder
+   82  npm --save restify
+   83  npm install --save restify
+   84  v
+   85  node app.js
+   86  npm i
+   87  node app.js
+   88  npm install --save botbuilder
+   89  node app.js
+   90  npm i -S botbuilder@3.13.1
+   91  node app.js
+   92  nvm use 7
+   93  nvm use 8
+   94  node app.js
+   95  node server.js
+   96  cd
+   97  cd code
+   98  cd interpreta
+   99  cd iapp
+  100  cd MeanJS
+  101  node server.js
+  102  node app.js
+  103  npm install winston
+  104  npm i -g update
+  105  brew help update
+  106  v
+  107  brew update
+  108  brew install mongodb
+  109  brew --install mongodb
+  110  brew install mongodb
+  111  xcode-select --install
+  112  brew install mongodb
+  113  sudo brew install mongodb
+  114  grunt watch
+  115  cd code/interpreta/iapp
+  116  cd MeanJS
+  117  grunt watch
+  118  node server.js
+  119  node app.js
+  120  node server.js
+  121  nvm use 8
+  122  node server.js
+  123  nvm use 8
+  124  node server.js
+  125  mongod -version
+  126  brew install mongodb
+  127  mongod -version
+  128  node server.js
+  129  npm -i
+  130  npm i
+  131  node server.js
+  132  mongo
+  133  mongod
+  134  cd
+  135  sudo mkdir /data
+  136  cd data
+  137  cd /data
+  138  mkdir db
+  139  sudo mkdir db
+  140  sudo mongod
+  141  node server.js
+  142  nvm use 8
+  143  node server.js
+  144  npm i
+  145  node server.js
+  146  npm rebuild
+  147  node server.js
+  148  npm i
+  149  node server.js
+  150  nvm use 8
+  151  node server.js
+  152  sudo mongod
+  153  mongod
+  154  nvm use 8
+  155  mongod
+  156  node server.js
+  157  git branch --contains 50c6d1a4747\t
+  158  git branch --contains 50c6d1a4747
+  159  node server.js
+  160  curl -o- https://raw.OBgbusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+  161  cd code
+  162  CD interpreta
+  163  cd interpreta
+  164  git pull
+  165  grv
+  166  cd
+  167  cd code/interpreta
+  168  git pull
+  169  grv
+  170  cd
+  171  cd .ssh
+  172  o
+  173  cd code/interpreta
+  174  cd
+  175  cd code
+  176  cd interpreta
+  177  cd
+  178  cd code
+  179  cd chatbot
+  180  git pull
+  181  cd
+  182  cd code
+  183  cd fonts
+  184  git pull
+  185  cd
+  186  cd code
+  187  cd interpreta
+  188  git pull
+  189  cd
+  190  cd .ssh
+  191  ssh-keygen -t rsa -b 4096 -C "ajay.yadav@interpreta.com"
+  192  ssh-add -D
+  193  ssh-add ~/.ssh/id_rsa_bitbucket
+  194  ssh-add ~/.ssh/id_rsa_git
+  195  ssh-add -l
+  196  cd
+  197  cd code/fonts
+  198  git pull
+  199  cd
+  200  cd code
+  201  CD interpreta
+  202  cd interpreta
+  203  git pull
+  204  cd r_iapp
+  205  npm start
+  206  npm i
+  207  npm start
+  208  yarn
+  209  npm i
+  210  nvm use 8
+  211  npm i
+  212  npm start
+  213  vs
+  214  v
+  215  nvm use 8
+  216  npm i
+  217  npm start
+  218  npm run build
+  219  npm i
+  220  yarn install
+  221  git pull
+  222  npm i
+  223  npm start
+  224  git pull
+  225  npm start
+  226  git pull
+  227  node use 8
+  228  nvm use 8
+  229  npm i
+  230  npm start
+  231  nvm use 8
+  232  git pull
+  233  npm i
+  234  git checkout 2.11 
+  235  git pull
+  236  npm i
+  237  npm start
+  238  node server.js
+  239  pwd
+  240  ssh jrold@10.0.20.26
+  241  grunt watch
+  242  nvm use 8.11.3
+  243  node server.js
+  244  git status
+  245  git add public/*
+  246  git status
+  247  git commit
+  248  git commit -m "HCA-2386 \nTile Name change, just for McKesson" 
+  249  glg
+  250  git push
+  251  git commit --ammend
+  252  cd "/Users/ajay.yadav/code/interpreta"
+  253  git revert -e 97ce58fd9f33a52780f5ce2ecbd3ed8370c9f85b
+  254  grunt build
+  255  cd 
+  256  cd code/interpreta/iapp/MeanJS
+  257  grunt build
+  258  nvm use 8
+  259  grunt build
+  260  git status
+  261  git pull
+  262  git push
+  263  git revert -e 97ce58fd9f33a52780f5ce2ecbd3ed8370c9f85b
+  264  git -amend -m "HCA-2386"
+  265  git -amend 97ce58fd9f33a52780f5ce2ecbd3ed8370c9f85b
+  266  git 97ce58fd9f33a52780f5ce2ecbd3ed8370c9f85b -amend -m "hca-2386"
+  267  git commit --amend -m "HCA-2386"
+  268  git rebase -i
+  269  git stash
+  270  git rebase -i
+  271  cd
+  272  cd code
+  273  cd dotfiles
+  274  vc
+  275  v
+  276  nvm use 8
+  277  cd code/interpreta/iapp/MeanJS
+  278  git rebase -i
+  279  git status
+  280  glg
+  281  git push
+  282  git pull
+  283  nvm use 8
+  284  npm i
+  285  npm start
+  286  ls
+  287  git checkout master
+  288  npm i
+  289  git pull
+  290  npm i
+  291  npm start
+  292  grunt build
+  293  node server.js
+  294  mongod -version
+  295  mongod
+  296  git stash pop
+  297  git stash
+  298  node server.js
+  299  git stash pop
+  300  git stash
+  301  node server.js
+  302  grunt build
+  303  git pull
+  304  npm i
+  305  npm server.js
+  306  node server.js
+  307  NODE_ENV=development node server.js
+  308  grunt build
+  309  npm start
+  310  node server.js
+  311  cd 
+  312  cd code/dotfiles
+  313  code
+  314  v
+  315  gfo
+  316  git fetch origin
+  317  git remote
+  318  git pull
+  319  npm i
+  320  npm start
+  321  git pull
+  322  node server.js
+  323  npm start
+  324  git pull
+  325  npm i
+  326  npm start
+  327  cd
+  328  cd code/interpreta/r_iapp
+  329  v
+  330  cd
+  331  cd code/interpreta
+  332  ls
+  333  cd iapp
+  334  o
+  335  git checkout 2.11.0 
+  336  git stash
+  337  git checkout 2.11.0 
+  338  glg
+  339  git pull
+  340  git rebase -i
+  341  glg
+  342  git pull
+  343  cd
+  344  cd code/interpreta/r_iapp
+  345  git pull
+  346  ssh-add -l
+  347  cd
+  348  cd .ssh
+  349  o
+  350  ssh-add id_rsa_bitbucket
+  351  shh-add -l
+  352  ssh-add -l
+  353  cd code/interpreta/r_iapp
+  354  git pull
+  355  cd
+  356  cd code/interpreta/r_iapp
+  357  git pull
+  358  git stash
+  359  o
+  360  glg
+  361  git status
+  362  cd
+  363  git status
+  364  git add public/modules/core/pdfs/rules/*
+  365  git status
+  366  which gym
+  367  which gcm
+  368  history
+  369  git status
+  370  git pull
+  371  git status
+  372  git stash pop
+  373  git stash
+  374  git status
+  375  git checkout master
+  376  git checkout HEAD iapp/Meanjs/public/dist/application.min.js
+  377  git checkout HEAD public/dist/application.min.js
+  378  git status
+  379  node use 8
+  380  nvm use 8
+  381  node server.js
+  382  git checkout master
+  383  git pull
+  384  cd code/interpreta/r_iapp
+  385  git pull
+  386  git status
+  387  nvm use 8
+  388  node server.js
+  389  cd
+  390  cd code/interpreta/iapp
+  391  node server.js
+  392  cd MeanJS
+  393  node server.js
+  394  which glg
+  395  git pull
+  396  git checkout 2.11.0 
+  397  git pull
+  398  git checkout 2.11 
+  399  git status
+  400  git pull
+  401  git stash
+  402  git pull
+  403  git pop
+  404  git stash pop
+  405  git status
+  406  git checkout public/dist/application.js
+  407  git status
+  408  git checkout public/dist/application.js
+  409  git stash
+  410  git pull
+  411  git reset -hard
+  412  git reset --hard
+  413  git stash pop
+  414  o
+  415  git status
+  416  git reset --hard
+  417  git pull
+  418  git stash pop
+  419  git status
+  420  git pull
+  421  grunt build
+  422  git pull
+  423  node server.js
+  424  npm i
+  425  node server.js
+  426  grunt build
+  427  node server.js
+  428  grunt build
+  429  node server.js
+  430  grunt build
+  431  node server.js
+  432  grunt build
+  433  node server.js
+  434  git add public/*
+  435  git status
+  436  git pull
+  437  node server.js
+  438  nvm use 8
+  439  node server.js
+  440  grunt watch
+  441  nvm use 8
+  442  grunt build
+  443  node server.js
+  444  grunt watch
+  445  node server.js
+  446  git status
+  447  git pull
+  448  ssh-add -l
+  449  git status
+  450  git pull
+  451  cd
+  452  cd code/interpreta/iapp/MeanJS
+  453  git pull
+  454  ssh-add ~/.ssh/id_rsa_bitbucket
+  455  ssh-add ~/.ssh/id_rsa_git
+  456  ssh-add -l
+  457  git pull
+  458  git status
+  459  git checkout master 
+  460  git pull
+  461  git status
+  462  grunt build
+  463  grunt watch
+  464  server.js
+  465  node server.js
+  466  npm i
+  467  node server.js
+  468  npm i
+  469  node server.js
+  470  git pull
+  471  npm i
+  472  node server.js
+  473  git checkout 2.11 
+  474  node server.js
+  475  git checkout master 
+  476  git status
+  477  node server.js
+  478  cd install
+  479  ./install
+  480  ls
+  481  ./install.sh
+  482  npm i
+  483  node server.js
+  484  git pull
+  485  npm i
+  486  npm i -g npm
+  487  npm i
+  488  node server.js
+  489  cd
+  490  cd code/interpreta/iapp/MeanJS
+  491  npm i
+  492  node server.js
+  493  cd install
+  494  ./install.sh
+  495  cd
+  496  cd code/interpreta/iapp/MeanJS
+  497  npm i
+  498  cd install
+  499  cd
+  500  cd code/interpreta/iapp/MeanJS
+  501  npm i
+  502  npm audit fix
+  503  npm install
+  504  npm audit fix
+  505  node server.js
+  506  git remote
+  507  grv
+  508  npm install
+  509  run audit fix
+  510  npm audit fix
+  511  cd install
+  512  ls
+  513  ./install.sh
+  514  cd..
+  515  cd ..
+  516  npm install
+  517  node server.js
+  518  git pull
+  519  pwd
+  520  cd node_modules
+  521  ls -lhart
+  522  cd ..
+  523  rm -rf node_modules
+  524  git pull
+  525  cd install
+  526  ./install.sh
+  527  cd ..
+  528  cd node_modules
+  529  ls -lhart
+  530  cd ..
+  531  node server.js
+  532  git pull
+  533  npm i
+  534  node server.js
+  535  history
+  536  pwd
+  537  cd node_modules
+  538  ls -lhart
+  539  cd ..
+  540  rm -rf node_modules
+  541  git pull
+  542  cd install
+  543  ./install.sh
+  544  cd ..
+  545  cd node_modules
+  546  ls -lhart
+  547  cd ..
+  548  node server.js
+  549  git pull
+  550  node server.js
+  551  grunt build
+  552  git pull
+  553  git add public/modules/users/*
+  554  git status
+  555  git pull
+  556  git status
+  557  node server.js
+  558  git pull
+  559  node server.js
+  560  grunt watch
+  561  node server.js
+  562  grunt build
+  563  nvm use 8
+  564  grunt build
+  565  npm i
+  566  grunt build
+  567  cd node_modules
+  568  ls -lhart
+  569  cd ..
+  570  vi package.json
+  571  mv node_modules node_modules_bak
+  572  npm install
+  573  grunt build
+  574  rm -r node_modules_bak
+  575  rm -rf node_modules_bak
+  576  git status
+  577  git pull
+  578  git status
+  579  git pull
+  580  cd
+  581  cd code
+  582  cd interpreta
+  583  cd r_iapp
+  584  git pull
+  585  v
+  586  git pull
+  587  grunt build
+  588  cd code/bootcamp
+  589  git remote add origin https://github.com/ajayrajyadav/bootcamp.git
+  590  echo "# bootcamp" >> README.md
+  591  git init
+  592  git add README.md
+  593  git commit -m "first commit"
+  594  git remote add origin https://github.com/ajayrajyadav/bootcamp.git
+  595  git push -u origin master
+  596  ls
+  597  cd PREWORK_ARY
+  598  git add *
+  599  git status
+  600  git reset HEAD *
+  601  git status
+  602  v
+  603  git add *
+  604  git status
+  605  git add *
+  606  git status
+  607  git commit -m "Adding Git Ignore""\n\n"
+  608  git status
+  609  ls
+  610  git add Module-2/*
+  611  git status
+  612  git add Module-2/*
+  613  git status
+  614  git commit -m "Adding Module-1"
+  615  git status
+  616  git
+  617  git push -u origin master
+  618  cd Module-4/
+  619  o
+  620  git add *
+  621  git status
+  622  git add *
+  623  git status
+  624  git commit -m "Adding more work"
+  625  git push -u origin master
+  626  git status
+  627  git commit -m "Adding more work"
+  628  git git status
+  629  git status
+  630  git pull
+  631  npm i
+  632  node server.js
+  633  bower i
+  634  npm i
+  635  npm install -g npm
+  636  npm i
+  637  node server.js
+  638  git pull
+  639  ssh-add -l
+  640  cd
+  641  cd .ssh
+  642  ls
+  643  ssh-add ~/.ssh/id_rsa_bitbucket
+  644  ssh-add -l
+  645  ssh-add ~/.ssh/id_rsa_git
+  646  ssh-add -l
+  647  cd
+  648  cd code
+  649  cd interpreta/iapp/MeanJS
+  650  git pull
+  651  node server.js
+  652  npm install
+  653  node server.js
+  654  rm -rf node_modules_bak
+  655  o
+  656  cd code/interpreta/iapp/MeanJS
+  657  git pull
+  658  cd install
+  659  ./install.sh
+  660  cd ..
+  661  ls -lhart
+  662  cd node_modules
+  663  ls -lhart
+  664  cd ..
+  665  node server.js
+  666  nvm use 8
+  667  node server.js
+  668  cd
+  669  cd code/bootcamp/PREWORK_ARY
+  670  v
+  671  cd
+  672  cd code/interpreta/iapp/MeanJS
+  673  node server.js
+  674  nvm use 8
+  675  node server.js
+  676  cd
+  677  cd code
+  678  ls
+  679  cd dotfiles
+  680  v
+  681  grv
+  682  git pull
+  683  node server.js
+  684  cd 
+  685  cd code/interpreta
+  686  ls
+  687  cd front_end
+  688  cd reporting-submission
+  689  git pull
+  690  v
+  691  npm i
+  692  npm install -g npm
+  693  npm start
+  694  o
+  695  cd
+  696  cd code/interpreta
+  697  ls
+  698  git pull
+  699  ls
+  700  git clone ssh://git@git.int-dev.com:7999/in/third_party_$(uname).git $SRC/interpreta/third_party
+  701  SRC=$HOME/src
+  702  git clone ssh://git@git.int-dev.com:7999/in/third_party_$(uname).git $SRC/interpreta/third_party
+  703  cd ..
+  704  ls
+  705  git clone ssh://git@git.int-dev.com:7999/in/tools_$(uname).git $SRC/tools
+  706  cd interpreta
+  707  ls
+  708  SRC=$HOME/code
+  709  which src
+  710  o
+  711  cd $home
+  712  cd $HOME
+  713  ls
+  714  cd src
+  715  ls
+  716  cd interpreta
+  717  ls
+  718  cd code
+  719  cd
+  720  cd code
+  721  cd $HOME
+  722  o
+  723  SRC=$HOME/code
+  724  git clone ssh://git@git.int-dev.com:7999/in/tools_$(uname).git $SRC/tools
+  725  cd code
+  726  ls
+  727  cd tools
+  728  ls
+  729  cd ..
+  730  git clone ssh://git@git.int-dev.com:7999/in/third_party_$(uname).git $SRC/interpreta/third_party
+  731  cd interpreta
+  732  vi ~/.bashrc
+  733  cd
+  734  cd code
+  735  cd dotfiles
+  736  v
+  737  PATH
+  738  $PATH
+  739  echo PATH
+  740  echo $PATH
+  741  vi ~/.bashrc
+  742  source ~/.bashrc
+  743  echo $PATH
+  744  cd ..
+  745  cd interpreta
+  746  build
+  747  ls
+  748  vi ~/.interpretaconfig
+  749  ls
+  750  git pull
+  751  ninja -C out/debug cerializer
+  752  ninja -C out/debug cerializer && out/debug/bin/cerializer
+  753  ninja -C out/debug/api_lite
+  754  ninja -C out/debug/api/lite && out/debug/bin/api_lite
+  755  ninja -C out/debug api/lite 
+  756  ninja -C out/debug api/lite && out/debug/bin/api_lite
+  757  ls
+  758  cd third_party
+  759  ls
+  760  git pull
+  761  cd ..
+  762  ls
+  763  ninja -C out/debug api/lite && out/debug/bin/api_lite
+  764  brew install mongodb gnutls python3
+  765  cd code
+  766  cd bootcamp
+  767  ls
+  768  cd PREWORK_ARY
+  769  v
+  770  git add *
+  771  git status
+  772  git commit "Module-10 upgrade"
+  773  git commit -m "Module-10 upgrade"
+  774  git status
+  775  git push
+  776  git status
+  777  cd
+  778  cd code
+  779  cd interpreta
+  780  ls
+  781  cd iapp
+  782  cd MeanJS
+  783  v
+  784  o
+  785  git pull
+  786  npm i
+  787  nvm use 8
+  788  npm i
+  789  node server.js
+  790  nvm use 8
+  791  npm i
+  792  node server.js
+  793  cd install
+  794  ls
+  795  ./install.sh
+  796  cd ..
+  797  npm install
+  798  pwd
+  799  cd node_modules
+  800  ls -lhart
+  801  cd ..
+  802  rm -rf node_modules
+  803  nvm use 8
+  804  cd install
+  805  ./install.sh
+  806  cd ..
+  807  cd node_modules
+  808  ls -lhart
+  809  cd ..
+  810  node server.js
+  811  cd node_modules_bak
+  812  cd ..
+  813  rm -rf node_modules_bak
+  814  git pull
+  815  node server.js
+  816  cd ..
+  817  ls
+  818  cd .
+  819  cd ..
+  820  ls
+  821  cd r_iapp
+  822  git pull
+  823  node start
+  824  v
+  825  npm start
+  826  node server.js
+  827  cd
+  828  cd code/interpreta
+  829  cd iapp/MeanJS
+  830  pwd
+  831  ls
+  832  cd app/controllers
+  833  ls
+  834  ls -l
+  835  ls -L
+  836  cd
+  837  cd code
+  838  ls
+  839  cd fonts
+  840  ls
+  841  ./install.sh
+  842  cd
+  843  cd code
+  844  cd dotfiles
+  845  v
+  846  cd code
+  847  ls
+  848  cd dotfiles
+  849  cd code
+  850  cd interpreta/api/iapp
+  851  cd ..
+  852  cd iapp
+  853  cd MeanJS
+  854  v
+  855  nvm use 8
+  856  git pull
+  857  node server.js
+  858  git pull
+  859  git branch 2.11.2
+  860  git branch
+  861  git checkout 2.11.2 
+  862  git status
+  863  o
+  864  git status
+  865  cd
+  866  cd code
+  867  ls
+  868  mkdir nodeDockerDemo
+  869  cd nodeDockerDemo
+  870  v
+  871  touch index.js
+  872  PORT=1337 node ./index.js
+  873  curl 0.0.0.0:1337 hello
+  874  npm init -y
+  875  npm run test
+  876  npm start
+  877  curl 0.0.0.0:1337
+  878  npm start
+  879  curl 0.0.0.0:1337
+  880  touch DockerFile
+  881  docker build -t hello-world-node-api:0.0.1 .
+  882  docker run -it --rm -p 1337:1337 hello-world-node-api:0.0.1
+  883  curl 0.0.0.0:1337
+  884  docker run -it --rm -p 1338:1337 hello-world-node-api:0.0.1
+  885  curl 0.0.0.0:1338
+  886  docker ps
+  887  docker rm 34b62fbe8b91
+  888  docker ps
+  889  docker rm -f 34b62fbe8b91
+  890  docker ps
+  891  docker rm -f 201aa7211058
+  892  git remote add origin https://github.com/ajayrajyadav/nodeDockerDemo.git
+  893  git init
+  894  git add README.md
+  895  echo "# nodeDockerDemo" >> README.md
+  896  git remote add origin https://github.com/ajayrajyadav/nodeDockerDemo.git
+  897  git push -u origin master
+  898  cd
+  899  cd code/bootcamp
+  900  v
+  901  cd
+  902  cd code/interpreta/iapp/MeanJS
+  903  git status
+  904  ls
+  905  git checkout 2.12 
+  906  git status
+  907  git pull
+  908  o
+  909  v
+  910  ls
+  911  cd Desktop
+  912  ls
+  913  cd P4p
+  914  ls -l
+  915  ls
+  916  ls -l
+  917  git status
+  918  git checkout master 
+  919  git pull
+  920  git status
+  921  git checkout master 
+  922  git pull
+  923  git merge 2.12 
+  924  cd
+  925  cd code/bootcamp
+  926  ls
+  927  cd homework
+  928  ls
+  929  rm -rf HW-Wireframe
+  930  LS
+  931  ls 
+  932  cd
+  933  cd code/interpreta/iapp/MeanJS
+  934  git checkout 2.12 
+  935  v
+  936  cd
+  937  cd code/bootcamp
+  938  ls
+  939  cd PREWORK_ARY
+  940  v
+  941  o
+  942  v
+  943  cd ..
+  944  v
+  945  cd
+  946  cd code
+  947  ls
+  948  cd nodeDockerDemo
+  949  ls
+  950  node index.js
+  951  v
+  952  PORT=1337 node ./index.js
+  953  curl 0.0.0.0:1337
+  954  docker run -it --rm -p 1337:1337 hello-world-node-api:0.0.1
+  955  curl 0.0.0.0:1337
+  956  cd
+  957  cd code
+  958  ls
+  959  cd bootcamp
+  960  ls
+  961  cd homework
+  962  ls
+  963  md week2
+  964  cd week2
+  965  git clone https://github.com/ajayrajyadav/Bootstrap-Portfolio.git
+  966  cd Bootstrap-Portfolio
+  967  v
+  968  cd ..
+  969  md week1
+  970  cd w
+  971  cd week
+  972  ls
+  973  cd week1
+  974  ls
+  975  git clone https://github.com/ajayrajyadav/Basic-Portfolio.git
+  976  cd ..
+  977  v
+  978  o
+  979  cd week1
+  980  ls
+  981  cd Basic-Portfolio
+  982  v
+  983  cd
+  984  cd code/bootcamp/homework/week2
+  985  ls
+  986  cd  Bootstrap-Portfolio
+  987  v
+  988  docker run -it --rm -p 1337:1337 hello-world-node-api:0.0.1
+  989  curl 0.0.0.0:1337
+  990  PORT=1337 node ./index.js
+  991  curl 0.0.0.0:1337
+  992  docker run -it --rm -p 1337:1337 hello-world-node-api:0.0.1
+  993  curl 0.0.0.0:1337
+  994  docker run -it --rm -p 1338:1337 hello-world-node-api:0.0.1
+  995  docker run -it --rm -p 1338:1338 hello-world-node-api:0.0.1
+  996  docker ps
+  997  docker run -it --rm -p 1337:1337 hello-world-node-api:0.0.1
+  998  docker run -it --rm -p 1338:1338 hello-world-node-api:0.0.1
+  999  curl 0.0.0.0:1337
+ 1000  curl 0.0.0.0:1338
+ 1001  docker rm -f 201aa7211058
+ 1002  docker rm -f e20486cf3c3f
+ 1003  docker rm -f c511eba6b4b1
+ 1004  v
+ 1005  cd ..
+ 1006  ls
+ 1007  git clone https://github.com/ajayrajyadav/Responsive-Portfolio.git
+ 1008  ls
+ 1009  o
+ 1010  v
+ 1011  cd Responsive-Portfolio
+ 1012  v
+ 1013  cd
+ 1014  cd code/interpreta
+ 1015  ls
+ 1016  cd i
+ 1017  cd iapp
+ 1018  ls
+ 1019  cd MeanJS
+ 1020  ls
+ 1021  git pull
+ 1022  node server.js
+ 1023  nvm use 8
+ 1024  node server.js
+ 1025  v
+ 1026  node server.js
+ 1027  git checkout master 
+ 1028  git pull
+ 1029  git status
+ 1030  node server.js
+ 1031  nvm use 8
+ 1032  grunt build
+ 1033  cd install
+ 1034  grunt build
+ 1035  cd ..
+ 1036  grunt build
+ 1037  node server.js
+ 1038  nvm use 8
+ 1039  node server.js
+ 1040  git status
+ 1041  git reset HEAD~1
+ 1042  git status
+ 1043  git reset HEAD~1
+ 1044  git status
+ 1045  git pull
+ 1046  git status
+ 1047  git pull
+ 1048  git add public/modules/users/views/settings/support.client.view.html
+ 1049  git status
+ 1050  git commit -m "HCA-2443 Service desk link is removed"
+ 1051  git status
+ 1052  git push
+ 1053  git status
+ 1054  cd
+ 1055  cd code
+ 1056  cd bootcamp
+ 1057  ls
+ 1058  cd homework
+ 1059  ls
+ 1060  md week3
+ 1061  ls
+ 1062  cd week3
+ 1063  git clone https://github.com/ajayrajyadav/Psychic-Game.git
+ 1064  cd Psychic-Game
+ 1065  v
+ 1066  npm install -g eslint
+ 1067  cd ..
+ 1068  cd week2
+ 1069  ls
+ 1070  cd Responsive-Portfolio
+ 1071  v
+ 1072  cd
+ 1073  cd code/bootcamp/homework
+ 1074  ls
+ 1075  md week4
+ 1076  cd week4
+ 1077  git clone https://github.com/ajayrajyadav/unit-4-game.git
+ 1078  ls
+ 1079  cd unit-4-game
+ 1080  v
+ 1081  cd ..
+ 1082  cd classwork
+ 1083  cd professorfiles/UCSD201902FSF3
+ 1084  v
+ 1085  git clone https://github.com/ajayrajyadav/UCSD201902FSF3.git
+ 1086  v
+ 1087  ls
+ 1088  cd UCSD201902FSF3
+ 1089  ls
+ 1090  v
+ 1091  cd ..
+ 1092  cd homework
+ 1093  cd Week5
+ 1094  ls
+ 1095  git clone https://github.com/ajayrajyadav/TriviaGame.git
+ 1096  ls
+ 1097  cd TriviaGame
+ 1098  v
+ 1099  cd ..
+ 1100  md week6
+ 1101  ls
+ 1102  cd week6
+ 1103  git clone https://github.com/ajayrajyadav/GifTastic.git
+ 1104  ls
+ 1105  cd GifTastic
+ 1106  v
+ 1107  cd ..
+ 1108  cd week5
+ 1109  cd TriviaGame
+ 1110  ls
+ 1111  o
+ 1112  cd code
+ 1113  ls
+ 1114  cd bootcamp
+ 1115  ls
+ 1116  cd homework
+ 1117  ls
+ 1118  cd week6
+ 1119  ls
+ 1120  cd GifTastic
+ 1121  v
+ 1122  o
+ 1123  cd
+ 1124  cd code
+ 1125  ls
+ 1126  cd interpreta
+ 1127  ls
+ 1128  cd r_iapp
+ 1129  v
+ 1130  npm start
+ 1131  cd
+ 1132  cd code
+ 1133  cd bootcamp/classwork
+ 1134  ls
+ 1135  cd mywork
+ 1136  ls
+ 1137  git clone https://github.com/ajayrajyadav/NYTSearch.git
+ 1138  cd 
+ 1139  cd code/bootcamp/classwork/mywork
+ 1140  cd NYTSearch
+ 1141  v
+ 1142  cd
+ 1143  cd code/bootcamp/homework/
+ 1144  ls
+ 1145  md week7
+ 1146  cd week7
+ 1147  git clone https://github.com/ajayrajyadav/train-scheduler.git
+ 1148  v
+ 1149  cd train-scheduler
+ 1150  v
+ 1151  nvm -hel;
+ 1152  nvm -version
+ 1153  nvm --v
+ 1154  nvm -v
+ 1155  nvm --version
+ 1156  cd
+ 1157  ls
+ 1158  cd code
+ 1159  ls
+ 1160  cd dot
+ 1161  cd dotfiles
+ 1162  v
+ 1163  o
+ 1164  cd
+ 1165  cd code/bootcamp/homework/week7/train-scheduler
+ 1166  ls
+ 1167  v
+ 1168  cd ..
+ 1169  ls
+ 1170  md project1
+ 1171  ls
+ 1172  cd project1
+ 1173  git clone https://github.com/ajayrajyadav/GroupProject1.git
+ 1174  v
+ 1175  ls
+ 1176  cd GroupProject1
+ 1177  ls
+ 1178  v
+ 1179  git checkout -b mywork
+ 1180  git checkout master
+ 1181  git remote
+ 1182  git remote upstream https://github.com/gwyndall/GroupProject1.git
+ 1183  git remote add upstream https://github.com/gwyndall/GroupProject1.git
+ 1184  git pull upstream master
+ 1185  v
+ 1186  git pull upstream master
+ 1187  git status
+ 1188  git add main.js
+ 1189  git add assets/script/main.js
+ 1190  git status
+ 1191  git add assets/script/main.js
+ 1192  git status
+ 1193  git pull upstream master
+ 1194  cd ..
+ 1195  ls
+ 1196  cd week2
+ 1197  ls
+ 1198  cd Bootstrap-Portfolio
+ 1199  ls
+ 1200  v
+ 1201  cd
+ 1202  cd Downloads
+ 1203  cd ceevee
+ 1204  v
+ 1205  cd
+ 1206  cd code/bootcamp/homework/week5
+ 1207  ls
+ 1208  cd TriviaGame
+ 1209  v
+ 1210  cd code/bootcamp/homework/
+ 1211  md week9
+ 1212  cd week9
+ 1213  git clone https://github.com/ajayrajyadav/material-portfolio.git
+ 1214  cd material-portfolio
+ 1215  v
+ 1216  cd ..
+ 1217  md week10
+ 1218  cd week10
+ 1219  git clone https://github.com/ajayrajyadav/liri-node-app.git
+ 1220  v
+ 1221  cd liri-node-app
+ 1222  v
+ 1223  o
+ 1224  npm i axios
+ 1225  npm i
+ 1226  npm install
+ 1227  node liri.js spotify-this-song the sign
+ 1228  node liri.js spotify-this song the sign
+ 1229  node liri.js spotify-this-song the sign
+ 1230  node liri movie-this mr. nobody
+ 1231  node liri movie-this frozen
+ 1232  node liri movie-this Mr. Nobody
+ 1233  npm i
+ 1234  node liri movie-this frozen
+ 1235  npm i chalk
+ 1236  node liri movie-this frozen
+ 1237  node liri spotify-this The Sign
+ 1238  node liri spotify-this-song The Sign
+ 1239  node liri spotify-this-song The Sign >> temp.txt
+ 1240  node liri spotify-this-song The Sign
+ 1241  node liri spotify-this-song The Sign by ace of base
+ 1242  node liri spotify-this-song The Sign by ace of base >> temp.txt
+ 1243  node liri spotify-this-song The Sign
+ 1244  node liri concert-this shawn mendes
+ 1245  node liri concert-this Shawn Mendes
+ 1246  node liri concert-this Shawn Mendes >> temp.txt
+ 1247  node liri concert-this Shawn Mendes
+ 1248  node liri concert-this Shawn Mendes >> temp.txt
+ 1249  node liri concert-this Shawn Mendes
+ 1250  node liri movie-this Avengers endgame
+ 1251  node liri movie-this Avengers Dndgame
+ 1252  node liri movie-this Avengers Endgame
+ 1253  node liri movie-this Avengers
+ 1254  node liri movie-this Endgame
+ 1255  node liri movie-this Avengers: Endgame
+ 1256  node liri do-what-it-says
+ 1257  node liri concert-this Shawn Mendes
+ 1258  node liri do-what-it-says
+ 1259  node liri spotify-this-song The Sign by ace of base
+ 1260  v
+ 1261  node liri spotify-this-song The Sign by ace of base
+ 1262  node liri do-what-it-says
+ 1263  node liri spotify-this-song The Sign by ace of base
+ 1264  node liri do-what-it-says
+ 1265  cd
+ 1266  cd code
+ 1267  ls
+ 1268  cd interpreta
+ 1269  ls
+ 1270  v
+ 1271  cd
+ 1272  cd .ssh
+ 1273  o
+ 1274  ssh-add -D
+ 1275  ls
+ 1276  ssh-add ~/.ssh/id_rsa_bitbucket
+ 1277  ssh-add ~/.ssh/id_rsa_git
+ 1278  ssh-add -l
+ 1279  cd packages
+ 1280  cd components/react-core
+ 1281  yarn start
+ 1282  brew install yarn
+ 1283  cd
+ 1284  ssh rh7-jrold.int-dev.com
+ 1285  yarn start
+ 1286  clr
+ 1287  clear
+ 1288  cd code
+ 1289  cd bootcamp
+ 1290  ls
+ 1291  cd homework/week9
+ 1292  ls
+ 1293  cd ..
+ 1294  cd week10
+ 1295  ls
+ 1296  cd week10
+ 1297  ls
+ 1298  cd liri-node-app
+ 1299  v
+ 1300  clear
+ 1301  npm i
+ 1302  clear
+ 1303  node liri what-it-says
+ 1304  node liri do-what-it-says
+ 1305  clear
+ 1306  ls
+ 1307  clear
+ 1308  npm i
+ 1309  node liri spotify-this-song the sign
+ 1310  node liri movie-this Mr. Nobody
+ 1311  node liri concert-this Shawn Mendes
+ 1312  node liri do-what-it-says
+ 1313  node liri spotify-this-song the sign
+ 1314  node liri spotify-this-song the sign ace of base
+ 1315  clear
+ 1316  ls
+ 1317  npm i
+ 1318  node liri spotify-this-song the sign ace of base
+ 1319  node liri movie-this Mr. Nobody
+ 1320  node liri concert-this Shawn Mendes
+ 1321  node liri do-what-it-says
+ 1322  clear
+ 1323  ls
+ 1324  npm i
+ 1325  ls
+ 1326  git commit -m "Adding Git Ignore""\n\n"
+ 1327  clear
+ 1328  ls
+ 1329  npm i
+ 1330  clear
+ 1331  ls
+ 1332  npm i
+ 1333  ls
+ 1334  node liri spotify-this-song the sign ace of base
+ 1335  node liri movie-this Mr. Nobody
+ 1336  node liri concert-this Shawn Mendes
+ 1337  clear
+ 1338  node liri do-what-it-says
+ 1339  ls
+ 1340  rm -rf node_modules
+ 1341  clear
+ 1342  ls
+ 1343  npm i
+ 1344  clear
+ 1345  ls
+ 1346  rm -rf node_modules
+ 1347  ls
+ 1348  npm i
+ 1349  ls
+ 1350  node liri concert-this Shawn Mendes
+ 1351  clear
+ 1352  node liri movie-this Mr. Nobody
+ 1353  node liri spotify-this-song the sign ace of base
+ 1354  clear
+ 1355  ls
+ 1356  rm log.txt
+ 1357  ls
+ 1358  node liri do-what-it-says
+ 1359  cat log.txt
+ 1360  vi log.txt
+ 1361  history
+ 1362  ls
+ 1363  cat keys.js
+ 1364  which cat
+ 1365  cd /bin/
+ 1366  ls
+ 1367  cd cat
+ 1368  cd..
+ 1369  ~usr/bin
+ 1370  cd ~usr/bin
+ 1371  clear
+ 1372  ls
+ 1373  rm -rf node_modules
+ 1374  ls
+ 1375  npm i
+ 1376  ls
+ 1377  clear
+ 1378  node liri spotify-this-song the sign ace of base
+ 1379  node liri concert-this Shawn Mendes
+ 1380  clear
+ 1381  node liri movie-this Mr. Nobody
+ 1382  ls
+ 1383  rm log.txt
+ 1384  ls
+ 1385  node liri do-what-it-says
+ 1386  vi log.txt
+ 1387  v
+ 1388  cd ..
+ 1389  md week11
+ 1390  cd week11
+ 1391  git clone https://github.com/ajayrajyadav/hangman-cli.git
+ 1392  cd hangman-cli
+ 1393  v
+ 1394  cd ..
+ 1395  ls
+ 1396  md week12
+ 1397  cd week
+ 1398  ls
+ 1399  cd week12
+ 1400  ls
+ 1401  git clone https://github.com/ajayrajyadav/bamazon.git
+ 1402  cd bamazon
+ 1403  ls
+ 1404  v
+ 1405  cd ..
+ 1406  ls
+ 1407  cd week10
+ 1408  ls
+ 1409  cd liri-node-app
+ 1410  v
+ 1411  ls
+ 1412  node bamazonCustomer
+ 1413  node init
+ 1414  npm init -y
+ 1415  npm dontenv mysql inquirer cli-table
+ 1416  npm install dontenv mysql inquirer cli-table
+ 1417  npm install dotenv mysql inquirer cli-table
+ 1418  node bamazonCustomer
+ 1419  mysql -u root password 6464N
+ 1420  mysql -u root -p
+ 1421  node bamazonCustomer
+ 1422  cd
+ 1423  cd /usr/local/mysql/bin
+ 1424  pwd
+ 1425  export PATH = ${PATH}:/usr/local/mysql/bin
+ 1426  export PATH=${PATH}:/usr/local/mysql/bin
+ 1427  PATH
+ 1428  mysql -u root -p
+ 1429  node bamazonCustomer
+ 1430  cd
+ 1431  cd code
+ 1432  cd bootcamp/homework/week12
+ 1433  ls
+ 1434  cd bamazon
+ 1435  ls
+ 1436  node bamazonCustomer.js
+ 1437  node bamazonCustomer
+ 1438  npm i colors
+ 1439  npm i
+ 1440  node bamazonCustomer
+ 1441  npm i
+ 1442  node bamazonCustomer
+ 1443  cd hand-coded
+ 1444  ls
+ 1445  npm i
+ 1446  node index
+ 1447  cd ..
+ 1448  node bamazonCustomer
+ 1449  cd
+ 1450  cd code
+ 1451  ls
+ 1452  cd interpreta
+ 1453  ls
+ 1454  cd iapp
+ 1455  ls
+ 1456  cd MeanJS
+ 1457  o
+ 1458  cd code
+ 1459  echo history >> history.txt
+ 1460  o
+ 1461  ls
+ 1462  history >> history.txt
+ 1463  nvm use 9
+ 1464  nvm use 8
+ 1465  node server.js
+ 1466  git pull
+ 1467  node server.js
+ 1468  v
+ 1469  node server.js
+ 1470  node index
+ 1471  ls
+ 1472  cd bootcamp
+ 1473  ls
+ 1474  cd homework
+ 1475  ls
+ 1476  cd week12
+ 1477  ls
+ 1478  cd hand-coded
+ 1479  v
+ 1480  node index
+ 1481  npm init
+ 1482  npm init -y
+ 1483  npm i mysql inquirer
+ 1484  npm init -y
+ 1485  node index
+ 1486  npm i colors cli-table
+ 1487  node index
+ 1488  npm i dotevn
+ 1489  npm i dotenv
+ 1490  node index
+ 1491  cd ..
+ 1492  git clone https://github.com/ajayrajyadav/bamazon.git
+ 1493  o
+ 1494  cd bamazon
+ 1495  v
+ 1496  npm i
+ 1497  node index
+ 1498  v
+ 1499  cd ..
+ 1500  ls
+ 1501  cd bamazon\ copy
+ 1502  v
+ 1503  node index
+ 1504  npm i boxen
+ 1505  node index
+ 1506  node bamazonManager.js
+ 1507  node index
+ 1508  node bamazonManager.js
+ 1509  node index
+ 1510  node bamazonManager.js
+ 1511  node index
+ 1512  cd ..
+ 1513  ls
+ 1514  cd bamazon
+ 1515  v
+ 1516  node index
+ 1517  node temp
+ 1518  node index
+ 1519  git status
+ 1520  git add bamazonManager.js
+ 1521  git status
+ 1522  git pull
+ 1523  git push
+ 1524  git pull
+ 1525  git commit "merge conflicts"
+ 1526  git status
+ 1527  git commit
+ 1528  git status
+ 1529  node index
+ 1530  node use 8
+ 1531  nvm use 8
+ 1532  node server
+ 1533  nvm use 8
+ 1534  node server
+ 1535  node index
+ 1536  v
+ 1537  node index.js
+ 1538  npm i
+ 1539  node index.js
+ 1540  o
+ 1541  node index.js
+ 1542  cd ..
+ 1543  cd week13
+ 1544  ls
+ 1545  git clone https://github.com/ajayrajyadav/friend-finder.git
+ 1546  ls
+ 1547  cd friend-finder
+ 1548  v
+ 1549  npm init -y
+ 1550  npm i express body-parser
+ 1551  npm i mysql path
+ 1552  node server
+ 1553  cd ..
+ 1554  cd
+ 1555  cd code/interpreta
+ 1556  cd iapp
+ 1557  cd MeanJS
+ 1558  node survey.js
+ 1559  cd app/public/js
+ 1560  ls
+ 1561  node survey.js
+ 1562  ../../../bootcamp/homework/
+ 1563  ls
+ 1564  cd week14
+ 1565  md week14
+ 1566  cd week
+ 1567  git clone https://github.com/ajayrajyadav/eat-da-burger.git
+ 1568  cd week14
+ 1569  ls
+ 1570  git clone https://github.com/ajayrajyadav/eat-da-burger.git
+ 1571  cd eat-da-burger
+ 1572  v
+ 1573  ls
+ 1574  v
+ 1575  nvm use 8
+ 1576  node server.js
+ 1577  cd ..
+ 1578  cd week13
+ 1579  ls
+ 1580  cd ..
+ 1581  cd week11
+ 1582  ls
+ 1583  cd ..
+ 1584  cd week10
+ 1585  ls
+ 1586  cd ../week12/
+ 1587  ls
+ 1588  cd bamazon
+ 1589  v
+ 1590  git checkout 2.13 
+ 1591  git checkout master 
+ 1592  git merge 2.13
+ 1593  git checkout 2.13 
+ 1594  git checkout master 
+ 1595  git checkout 2.13 
+ 1596  git checkout master 
+ 1597  git merge 2.13
+ 1598  cd ../../week14/quotes-app-hand-coded
+ 1599  v
+ 1600  npm init
+ 1601  npm i express express-handlbars mysql dotenv 
+ 1602  npm i express mysql dotenv 
+ 1603  npm i express-handlebars
+ 1604  node server
+ 1605  cd ../eat-da-burger
+ 1606  ls
+ 1607  v
+ 1608  node server
+ 1609  v
+ 1610  git checkout 2.13 
+ 1611  node server
+ 1612  grunt build
+ 1613  nvm use 4
+ 1614  nv install 4
+ 1615  nvm install 4
+ 1616  nvm use 4
+ 1617  grunt build
+ 1618  rm -rf node_modules
+ 1619  cd install
+ 1620  ./install.sh
+ 1621  node server
+ 1622  grunt build
+ 1623  cd ..
+ 1624  grunt build
+ 1625  npm rebuild node-sass
+ 1626  grunt build
+ 1627  node server
+ 1628  nvm use 8
+ 1629  node server
+ 1630  git checkout master 
+ 1631  git merge 2.13
+ 1632  git checkout 2.13 
+ 1633  git pull
+ 1634  git reset --hard HEAD
+ 1635  git checkout 2.13 
+ 1636  git checkout master 
+ 1637  git pull
+ 1638  node server
+ 1639  git merge 2.13
+ 1640  node server
+ 1641  git checkout 2.13
+ 1642  node server
+ 1643  grunt build
+ 1644  nvm use 4
+ 1645  grunt build
+ 1646  nvm use 8
+ 1647  node server
+ 1648  nvm use 4
+ 1649  grunt build
+ 1650  nvm use 8
+ 1651  node server
+ 1652  git status
+ 1653  git push
+ 1654  cd "/Users/ajay.yadav/code/interpreta"
+ 1655  git revert -e 7690df2217061be0d1db0f8af9ae2f132cfbafe1
+ 1656  node server
+ 1657  ls
+ 1658  cd iapp/MeanJS
+ 1659  nvm use 8
+ 1660  node server
+ 1661  nvm use 4
+ 1662  grunt build
+ 1663  node server
+ 1664  nvm use 8
+ 1665  node server
+ 1666  nvm use 4
+ 1667  grunt build
+ 1668  nvm use 8
+ 1669  node server
+ 1670  git reset --hard HEAD
+ 1671  git reset --hard HEAD^
+ 1672  git status
+ 1673  grv
+ 1674  git reset HEAD~
+ 1675  git status
+ 1676  git reset --hard HEAD~;
+ 1677  git status
+ 1678  node server
+ 1679  nvm use 8
+ 1680  nvm use 4
+ 1681  grunt build
+ 1682  nvm use 8
+ 1683  node server
+ 1684  nvm use 4
+ 1685  grunt build
+ 1686  nvm use 8
+ 1687  node server
+ 1688  git status
+ 1689  git checkout master
+ 1690  node server
+ 1691  git merge 2.13
+ 1692  git status
+ 1693  git checkout public/dist/application.min.js
+ 1694  git add public/dist/application.min.js
+ 1695  git status
+ 1696  nvm use 4
+ 1697  grunt build
+ 1698  nvm use 8
+ 1699  node server
+ 1700  git checkout 2.13 
+ 1701  git checkout master
+ 1702  v
+ 1703  alias gc
+ 1704  which gc
+ 1705  which grv
+ 1706  grv
+ 1707  cd
+ 1708  cd code
+ 1709  cd dotfiles
+ 1710  v
+ 1711  cd
+ 1712  cd code
+ 1713  cd interpreta
+ 1714  nvm 11
+ 1715  nvm use 11
+ 1716  ls
+ 1717  grv
+ 1718  git remote add aaron ssh://git@orion.int-dev.com:7999/~aaron.schlosser/interpreta.git
+ 1719  ls
+ 1720  grv
+ 1721  git fetch aaron
+ 1722  git branch checkout project/ops-dashboard
+ 1723  git checkout project/ops-dashboard
+ 1724  ls
+ 1725  cd ops_dashboard
+ 1726  v
+ 1727  ls
+ 1728  cd ui/
+ 1729  ls
+ 1730  cd docker
+ 1731  ls
+ 1732  cd development
+ 1733  ls
+ 1734  cat Dockerfile
+ 1735  cd ..
+ 1736  ls
+ 1737  docker-compose up
+ 1738  dc up
+ 1739  grv
+ 1740  git checkout master
+ 1741  git pull
+ 1742  ls
+ 1743  cd
+ 1744  v
+ 1745  o
+ 1746  cd code/dotfiles
+ 1747  v
+ 1748  cd ..
+ 1749  cd bootcamp
+ 1750  cd homework/project2
+ 1751  git clone https://github.com/ajayrajyadav/project-two.git
+ 1752  ls
+ 1753  cd project-two
+ 1754  v
+ 1755  npm install -g sequelize sequelize-cli
+ 1756  sequelize init:models & sequelize init:config
+ 1757  npm init -y
+ 1758  echo node_module >> .gitignore
+ 1759  npm i express express-session method-override passport passport-local sequelize mysql2
+ 1760  npm start
+ 1761  npm i express-handlebars
+ 1762  npm start
+ 1763  dc up
+ 1764  cd ..
+ 1765  cd week14
+ 1766  ls
+ 1767  cd eat-da-burger
+ 1768  v
+ 1769  npm start
+ 1770  npm watch
+ 1771  npm start
+ 1772  npm 
+ 1773  npm 4
+ 1774  npm r
+ 1775  npm start
+ 1776  git checkout master
+ 1777  npm start
+ 1778  cd ../../project2/
+ 1779  ls
+ 1780  git clone https://github.com/ajayrajyadav/project-2.git
+ 1781  ls
+ 1782  cd project-2
+ 1783  v
+ 1784  npm start
+ 1785  npm i
+ 1786  npm start
+ 1787  cd ../project-two
+ 1788  v
+ 1789  npm start
+ 1790  npm i
+ 1791  npm start
+ 1792  npm i
+ 1793  npm start
+ 1794  cd ..
+ 1795  cd bootcamp
+ 1796  cd homework
+ 1797  cd week14
+ 1798  ls
+ 1799  cd eat-da-burger
+ 1800  v
+ 1801  npm start
+ 1802  cd ../project-2
+ 1803  v
+ 1804  cd ../../../classwork/professorfiles/UCSD201902FSF3/
+ 1805  ls
+ 1806  cd UCSD201902FSF3
+ 1807  v
+ 1808  cd 15-sequelize/03-Supplemental/Sequelize-Passport-Example
+ 1809  ls
+ 1810  npm i
+ 1811  npm start
+ 1812  npm i
+ 1813  npm stat
+ 1814  npm start
+ 1815  v
+ 1816  npm start
+ 1817  gvr
+ 1818  grv
+ 1819  git remote add upstream https://github.com/brnunn00/project-2.git
+ 1820  grv
+ 1821  git pull upstream
+ 1822  git pull upstream master
+ 1823  git commit
+ 1824  git status
+ 1825  git rm public/images/
+ 1826  git rm -r public/images
+ 1827  git status
+ 1828  git add 
+ 1829  git add .
+ 1830  git status
+ 1831  git git status
+ 1832  git status
+ 1833  git pull upstream master
+ 1834  npm start
+ 1835  git pull upstream master
+ 1836  npm i
+ 1837  npm start
+ 1838  git pull upstream master
+ 1839  npm start
+ 1840  cd 
+ 1841  cd code/interpreta
+ 1842  ls
+ 1843  cd ops_dashboard
+ 1844  git branch checkout project/ops-dashboard
+ 1845  grv
+ 1846  v
+ 1847  ls
+ 1848  set-env.sh
+ 1849  install set-env.sh
+ 1850  dc up
+ 1851  set-env.sh
+ 1852  ls
+ 1853  cd code/interpreta/ops_dashboard/
+ 1854  set-env.sh
+ 1855  dc up
+ 1856  set-env.sh
+ 1857* npm start
+ 1858* dps
+ 1859* docker kill 872f2f50442f
+ 1860* dps
+ 1861* docker kill c3b5ee7701ec
+ 1862* npm start
+ 1863* gpu master
+ 1864* gpu
+ 1865* gfu
+ 1866* git pull upstream master
+ 1867* npm start
+ 1868  cd code/interpreta/iapp
+ 1869  ls
+ 1870  cd MeanJS
+ 1871  cd ..
+ 1872  v
+ 1873  cd
+ 1874  cd code/dotfiles
+ 1875  v
+ 1876  brew update

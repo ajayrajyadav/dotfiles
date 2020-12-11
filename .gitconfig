@@ -6,3 +6,5 @@
 # Source a private gitconfig for stuff like username, etc
 [include]
     path = ~/.gitconfig.local
+[user]
+	name = ajay.yadav

@@ -10,6 +10,7 @@ alias gstash='git stash save "msg"'
 alias gad='git add . --all'
 alias gph='git push -u'
 alias gpl='git pull -r'
+alias gplo='git pull origin'
 alias gff='git fetch && git merge --ff-only' # gff === git-fast-forward
 alias gcm='git commit -am'
 alias gco='git checkout'
